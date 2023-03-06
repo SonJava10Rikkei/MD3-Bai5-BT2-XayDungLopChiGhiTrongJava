@@ -7,7 +7,7 @@ public class Test2 extends Student {
         Student student1 = new Student();
         Test2 test2 = new Test2();
 
-        student1.setName("Son");
+        student1.setName("Son2");
         test2.setClasses("C005");
         student1.display();
     }
